@@ -110,8 +110,18 @@
 
 ---
 
-## ❤️ Like this project?
+## 🤝 Support
 
-Give it a ⭐ on GitHub and follow me for more cool Android projects!
+If you like this project, please consider ⭐ starring the repo and following me for more cool Android projects!
+
+☕ You can also support my work by buying me a coffee:
+
+<p align="left">
+  <a href="https://buymeacoffee.com/shubhanshu24510" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  </a>
+</p>
+
+---
 
 👉 [GitHub @shubhanshu24510](https://github.com/shubhanshu24510)
